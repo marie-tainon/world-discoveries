@@ -1,0 +1,13 @@
+.btn-grey{
+	background-color: #5B8266;
+	padding:15px 20px;
+	border-radius: 4px;
+	color:white;
+	font-weight: bold;
+}
+
+.btn-grey i:hover{
+	background-color: brown;
+	color: brown;
+
+}
